@@ -25,3 +25,5 @@ Gitbook地址：[https://www.gitbook.com/@yakima-teng](https://www.gitbook.com/@
 3、在项目根目录运行gitbook init，生成图书目录结构。
 
 4、运行gitbook serve可以在本地进行预览。
+
+5、在gitbook书本的设置里找到GitHub=>Webhook，根据该页提示在github上添加webhook，这样github仓库上push新变化时，会通知gitbook以便后者进行更新。
