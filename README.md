@@ -1,6 +1,6 @@
 #内容介绍
 
-该笔记本为学习java过程中的做的一些记录。
+该笔记本为学习Web过程中的做的一些记录。
 Gitbook地址：[https://yakima-teng.gitbooks.io/java-notes/content/](https://yakima-teng.gitbooks.io/java-notes/content/)
 
 #关于Gitbook的使用
