@@ -1,9 +1,8 @@
 # 内容介绍
 
-test editing function on gitbook website
+该笔记本为学习Web过程中的做的一些记录。通过github关联gitbook进行发布。
 
-该笔记本为学习Web过程中的做的一些记录。
-Gitbook地址：[https://yakima-teng.gitbooks.io/web-notes/content/](https://yakima-teng.gitbooks.io/web-notes/content/)
+欢迎大家纠错（包括错别字、文法错误等），本书的Github仓库地址为：[https://github.com/Yakima-Teng/web-notes](https://github.com/Yakima-Teng/web-notes)
 
 # 关于Gitbook的使用
 
@@ -29,4 +28,3 @@ Gitbook地址：[https://yakima-teng.gitbooks.io/web-notes/content/](https://yak
 4、运行gitbook serve可以在本地进行预览。
 
 5、在gitbook书本的设置里找到GitHub=&gt;Webhook，根据该页提示在github上添加webhook，这样github仓库上push新变化时，会通知gitbook以便后者进行更新。
-
