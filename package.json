@@ -4,7 +4,7 @@
   "description": "A E-Book about web development",
   "main": "README.md",
   "scripts": {
-    "build": "gitbook init",
+    "structure": "gitbook init",
     "dev": "gitbook serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
