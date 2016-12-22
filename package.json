@@ -1,0 +1,21 @@
+{
+  "name": "web-notes",
+  "version": "1.0.0",
+  "description": "A E-Book about web development",
+  "main": "README.md",
+  "scripts": {
+    "build": "gitbook init",
+    "dev": "gitbook serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yakima-Teng/java-notes.git"
+  },
+  "author": "Yakima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yakima-Teng/java-notes/issues"
+  },
+  "homepage": "https://github.com/Yakima-Teng/java-notes#readme"
+}
