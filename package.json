@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yakima-Teng/java-notes.git"
+    "url": "git+https://github.com/Yakima-Teng/web-notes.git"
   },
   "author": "Yakima",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Yakima-Teng/java-notes/issues"
+    "url": "https://github.com/Yakima-Teng/web-notes/issues"
   },
-  "homepage": "https://github.com/Yakima-Teng/java-notes#readme"
+  "homepage": "https://github.com/Yakima-Teng/web-notes#readme"
 }
