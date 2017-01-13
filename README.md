@@ -2,7 +2,7 @@
 
 该笔记本为学习Web过程中的做的一些记录。通过github关联gitbook进行发布。
 
-说明：这个笔记基本都是些复制粘贴的内容，大部分文章末位处都会有一个Reference小节指出正文来源。
+说明：这个笔记基本都是些复制粘贴的内容或者看视频时做的笔记，大部分文章末位处都会有一个Reference小节指出正文来源。
 
 本书的Github仓库地址为：[https://github.com/Yakima-Teng/web-notes](https://github.com/Yakima-Teng/web-notes)
 
